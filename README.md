@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&text=%20Sohee Ha%20%20&height=200&fontSize=80)
-
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&text=%20Sohee&nbspHa%20%20&height=200&fontSize=80)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyrax)](https://solved.ac/hyrax/)
 
 
