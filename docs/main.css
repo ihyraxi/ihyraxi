@@ -26,7 +26,7 @@ a{
     color: var(--accent-color);
 }
 .navbar__logo a:hover{
-    color: rgb(198, 196, 218);
+    color: darkslateblue;
 }
 .navbar__menu{
     display:flex;
