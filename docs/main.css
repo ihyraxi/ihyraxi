@@ -23,10 +23,10 @@ a{
     color: var(--text-color);
 }
 .navbar__logo i {
-    color: var(--accent-color);
+    color: darkslateblue;
 }
 .navbar__logo a:hover{
-    color: var(--accent-color);
+    color: darkslateblue;
 }
 .navbar__menu{
     display:flex;
@@ -37,7 +37,7 @@ a{
     padding: 8px 12px;
 }
 .navbar__menu li:hover{
-    background-color: var(--accent-color);/*#66a2d4*/
+    background-color: darkslateblue;/*#66a2d4*/
     border-radius: 4px;
 }
 .navbar__icons{
