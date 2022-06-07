@@ -37,7 +37,7 @@ a{
     padding: 8px 12px;
 }
 .navbar__menu li:hover{
-    background-color: darkslateblue;/*#66a2d4*/
+    background-color: darkslateblue;
     border-radius: 4px;
 }
 .navbar__icons{
